@@ -1,0 +1,7 @@
+C:\Users\daniil\source\repos\StringComparisonExample\StringComparisonExample\bin\Debug\StringComparisonExample.exe.config
+C:\Users\daniil\source\repos\StringComparisonExample\StringComparisonExample\bin\Debug\StringComparisonExample.exe
+C:\Users\daniil\source\repos\StringComparisonExample\StringComparisonExample\bin\Debug\StringComparisonExample.pdb
+C:\Users\daniil\source\repos\StringComparisonExample\StringComparisonExample\obj\Debug\StringComparisonExample.csproj.AssemblyReference.cache
+C:\Users\daniil\source\repos\StringComparisonExample\StringComparisonExample\obj\Debug\StringComparisonExample.csproj.CoreCompileInputs.cache
+C:\Users\daniil\source\repos\StringComparisonExample\StringComparisonExample\obj\Debug\StringComparisonExample.exe
+C:\Users\daniil\source\repos\StringComparisonExample\StringComparisonExample\obj\Debug\StringComparisonExample.pdb
